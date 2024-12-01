@@ -29,7 +29,7 @@ Website profesional untuk jasa percetakan dengan tampilan modern menggunakan Boo
 ```bash
 git clone https://github.com/aleaengineer/fdprinting.git
 
-cd prima-printing
+cd fdprinting
 ```
 
 ## Pengembangan
